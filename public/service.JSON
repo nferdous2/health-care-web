@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "Expert Doctor",
+        "description": "We have Expert Doctors, for providing best service to our patients",
+        "img": "https://www.nicepng.com/png/full/867-8678512_doctor-icon-physician.png"
+    },
+    {
+        "id": 2,
+        "name": "Radiology & Imaging Services",
+        "description": "We offer the best Radiology and imaging services to the patient with industry latest 3 Tesla MRI, Acquisition, Multi slice CT Scan, Digital 100 msH X Ray 4D Ultrasonography and others. ",
+        "img": "https://www.vssoc.com/wp-content/uploads/2020/12/veterinary-x-ray-radiography-icon.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Laboratory Services",
+        "description": "OUr laboratory included Aptio Automation for Biochemistry & Immunology, World class Abbot, Orthoclinical Diagnostics & Dia Somin system. Also, have Serbia clamophoresis (capillary), Biorad HPLC base HBAC analyzer & Allergy Analyzer (64 allergens). Molecular Diagnostics using Gene Xpert, Qiagen, BioRad System for PCR base diagnosis.",
+        "img": "https://www.cgfns.org/wp-content/uploads/2019/05/clinical-laboratory-scientist-credential-evaluation.png"
+    },
+    {
+        "id": 4,
+        "name": "Dental Unit",
+        "description": "Here we serve the patient's world-class treatment in different subspecialty like oral and maxillofacial surgery, Conservates & Cosmetic Dentistry & general dentistry by both male and female dental surgeons through modern equipment’s and advanced materials with reasonable price",
+        "img": "https://baytowngentledental.com/wp-content/uploads/2019/03/Dental-Injuries.png"
+    },
+    {
+        "id": 5,
+        "name": "Cardiology",
+        "description": "The hospital is providing cardiology services by 2 modern cath-lab and round the clock CCU facility including cardiac surgery (Adult & Pediatric) by 2 cardiac OT by renowned cardiologists and cardiac surgeons. This hospital has its own stoke units with DSA and stanting with coiling facility. Vascular surgery with PAG, Stenting and Laser services is another service of this hospital",
+        "img": "https://www.pngrepo.com/png/284197/180/cardiology.png"
+    },
+    {
+        "id": 6,
+        "name": "Medecine",
+        "description": "Internal Medicine or General Medicine of our hospital is the special branch and speciality of medicine that deals with the diagnosis and non-surgical treatment of diseases, and focuses on how to prevent, diagnose, and treat diseases that affect adults",
+        "img": "https://i.pinimg.com/originals/94/90/49/949049d5b7f2e923862a4e44e67800d2.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Diabetes center",
+        "description": "Diabetes (diabetes mellitus) is classed as a metabolism disorder. Metabolism refers to the way our bodies use digested food for energy and growth.",
+        "img": "https://www.shareicon.net/data/128x128/2015/09/14/101151_sugar_512x512.png"
+    },
+    {
+        "id": 8,
+        "name": "Ambulance",
+        "description": "Our ambulance service are available on 24/7.We have some nurse,they give sick or injured people emergency medical care before they reach the hospital. Ambulances have many types of equipment that are used to move and to treat patients.",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6lwYICIZ0YoEK24mL3_tC_U8W7GZ1aVYINQ&usqp=CAU"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "img": "https://fortisbangalore.com/frontend/docimage/doctor%20icon%20male-1547879489.jpg",
+        "name": "DR. KHANDAKER ABU TALHA",
+        "qualification": "  MBBS, MCPS (Surgery), MPH, MS (Neurosurgery), DCR (Canada)",
+        "department": " Neurosurgery",
+        "position": " Senior Consultant – Neurosurgery"
+    },
+    {
+        "id": 2,
+        "img": "https://fortisbangalore.com/frontend/docimage/doctor%20icon%20male-1547879489.jpg",
+        "name": "DR. RAHAT AMIN CHOWDHURY",
+        "qualification": "MBBS, MD (Neurology)",
+        "department": "Neurology",
+        "position": "Senior Consultant – Neurology"
+    },
+    {
+        "id": 3,
+        "img": "https://www.upcharr.com/admin1947/public/assets/upload/dr_profile_pic_77182890620191223.jpg",
+        "name": "PROF. DR. SHAMSUN NAHAR BEGUM",
+        "qualification": "MBBS, FCPS (Obs & Gynae) – 1988",
+        "department": "Gynaecology & Obstetrics",
+        "position": "Chief Consultant – Obs & Gynae"
+    },
+    {
+        "id": 4,
+        "img": "https://fortisbangalore.com/frontend/docimage/doctor%20icon%20male-1547879489.jpg",
+        "name": "DR. AJOY KUMAR DUTTA",
+        "qualification": "MBBS, MD – Cardiology (NICVD), Clinical Assistant – Cardiology in NICVD",
+        "department": "Cardiology",
+        "position": "Senior Consultant & H.O.D. – Cardiology"
+    },
+    {
+        "id": 5,
+        "img": "https://fortisbangalore.com/frontend/docimage/doctor%20icon%20male-1547879489.jpg",
+        "name": "PROF. DR. MOSEH UDDIN CHOUDHURY",
+        "qualification": "MBBS, FCPS (Paediatrics)",
+        "department": "Paediatrics",
+        "position": "Senior Consultant & Head, Department of Paediatrics"
+    }
+]

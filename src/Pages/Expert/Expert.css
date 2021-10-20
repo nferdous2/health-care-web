@@ -1,0 +1,17 @@
+.expert-container{
+    height: 340px;
+    background-color: rgba(245, 253, 253, 0.918);
+    box-sizing: border-box;
+    box-shadow: 0px 0px 10px gray;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+.expert-container:hover{
+    transform: scale(1.1);
+    transition: transform 2s ease-in-out;
+    background-color: rgb(226, 254, 255);
+    color: rgb(102, 5, 65);
+    font-family: cursive;
+    font-weight: 700;
+}

@@ -1,0 +1,16 @@
+.about-section {
+    background-color: rgb(252, 252, 252);
+    box-sizing: border-box;
+    box-shadow: 0px 0px 10px rgb(204, 199, 199);
+}
+.btn-click{
+    width: 100px;
+    background-color: rgb(35, 46, 42);
+    color: aliceblue;
+    border-radius: 10px;
+    
+}
+.btn-click:hover{
+    background-color: pink;
+    color: black;
+}

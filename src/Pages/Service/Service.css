@@ -1,0 +1,14 @@
+.container-div{
+    text-align: center;
+    box-sizing: border-box;
+    border-radius: 5px;
+    box-shadow: 0px 0px 5px gray;
+    height: 100%;
+}
+.container-image{
+   margin-left: 10%;
+}
+.container-div:hover{
+        transform: scale(1.1);
+        transition: transform 2s ease-in-out;
+}

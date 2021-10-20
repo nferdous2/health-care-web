@@ -1,0 +1,29 @@
+.counter{
+    background-color: rgb(252, 251, 253);
+    padding: 10px;
+    box-sizing: border-box;
+    border-radius: 5px;
+    box-shadow: 0px 0px 10px rgb(179, 179, 179);
+    margin: 15px;
+    font-family:cursive;
+text-align: center;
+
+}
+.icons-counter{
+    color: rgb(243, 248, 252);
+    margin: 5px;
+    padding: 5px;
+    background-color: rgb(62, 113, 146);
+    border-radius: 5px;
+    font-size: 50px;
+}
+.details-counter{
+    box-sizing: border-box;
+    box-shadow: 0px 0px 5px rgb(243, 231, 243);
+}
+.details-counter:hover{
+    color: rgb(197, 71, 113);
+    font-weight: 700;
+  transform: scale(1.1);
+  transition: transform 2s ease-in-out;
+}

@@ -1,0 +1,20 @@
+.about-img{
+    background-color: blueviolet;
+    width: 90%;
+    height: 90%;
+    opacity: 0.8;
+; }
+.about-container{
+    margin-left: 20px;
+}
+.about-section{
+    box-sizing: border-box;
+    border-radius: 10px;
+    background-color: rgb(248, 239, 239);
+    box-shadow: 0px 0px 5px rgb(228, 219, 219) ;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+.about-container h4:hover{
+    color: rgb(99, 11, 72);
+   
+}
