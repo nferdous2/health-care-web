@@ -13,7 +13,7 @@ const Header = () => {
             <Navbar sticky="top" collapseOnSelect expand="lg" className="header-container" >
                 <Container>
                     <Navbar.Brand href="#home" className="justify-content-start"><img src={logo} className=" w-25" alt="" />
-                        <p className="navs-link">Health Care Hospital</p>
+                        <p className="navs-link">H&Care Hospital</p>
                     </Navbar.Brand>
                     <Navbar.Toggle />
                     <Navbar.Collapse className=" justify-content-end">

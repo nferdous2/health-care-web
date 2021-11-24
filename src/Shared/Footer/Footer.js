@@ -13,7 +13,7 @@ const Footer = () => {
                     <div className="col-md-5">
                         <div className="col-md-4 text-center">
                             <img className='img-fluid w-25' src={logo} alt="" />
-                            <h4>Health Care Hospital</h4>
+                            <h4>H&Care Hospital</h4>
                         </div>
                     </div>
                     <div className="col-md-7">
