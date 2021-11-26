@@ -4,23 +4,27 @@
     background-position: center;
     background-size: cover;
     height: 80vh;
-    font-family: cursive;
-    opacity: 0.8;
+    opacity: 0.9;
+    z-index: 1;
   
 }
-
-.banner-btn{
-    background-color: rgba(121, 16, 51, 0.849);
-    color: aliceblue;
-    font-weight: 700;  
-    border-radius: 10px;
-}
-.banner-btn:hover{
+.banner-container::after{
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 0;
+    height: 100%;
+    width: 100%;
+    background-color: #000000;
+    opacity: 0.5;
+    z-index: -1;
     
-        transform: scale(1.1);
-        transition: transform 2s ease-in-out;
 }
 .text{
-    color: rgba(202, 8, 73, 0.849);
-    font-weight: 700;
+    font-family: cursive;
+    color: #f5c0f5;
+    text-align: center;
+     font-size: 3rem;
+     margin-left: auto;
+    
 }

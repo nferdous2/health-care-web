@@ -1,17 +1,18 @@
 .header-container{
-    background-color: rgb(209, 222, 230);
+    background-color: #1e405e;
+    color: white;
 }
 .navs-link{
-    color: rgb(48, 56, 59);
+    color: rgb(237, 242, 243);
     font-family: Verdana, Geneva, Tahoma, sans-serif
 }
 .links-nav{
-    color: rgb(38, 43, 48);
+    color: rgb(211, 226, 240);
     font-weight: 600;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 opacity: .8;
 }
 .links-nav:hover{
-    color: rgb(104, 50, 104);
+    color: rgb(138, 70, 138);
     opacity: 1;
 }
