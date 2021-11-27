@@ -1,8 +1,8 @@
 .reg-form{
-    background-color: rgb(150, 219, 219);
+    background-color: rgb(221, 241, 241);
     padding: 10px;
     box-sizing: border-box;
-    box-shadow: 0px 0px 10px rgb(180, 178, 178);
-      width: 70%;
+    box-shadow: 0px 0px 10px rgb(114, 110, 110);
+      width: 50%;
       margin: auto;
 }

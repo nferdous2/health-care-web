@@ -13,6 +13,9 @@
 opacity: .8;
 }
 .links-nav:hover{
-    color: rgb(138, 70, 138);
+    color: rgb(223, 174, 223);
     opacity: 1;
+}
+.display{
+    color: aliceblue;
 }

@@ -37,9 +37,8 @@ const Register = () => {
             </div>
             {/* Submit button  */}
             <div>
-                <Link to="/submit">
-                    <button type="submit" className="btn btn-primary btn-block ">Register</button>
-                </Link>
+
+                <button type="submit" className="btn btn-primary btn-block ">Register</button>
                 <p className="text-center">Already Have an account?</p>
                 <Link to="/login">
                     <p className="text-center mb-5 ">Please click here to log in</p>

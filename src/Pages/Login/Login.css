@@ -1,7 +1,14 @@
 .form-container{
-    background-color: rgb(99, 175, 175);
+    background-color: rgb(222, 238, 238);
     box-sizing: border-box;
-    box-shadow:0px 0px 10px papayawhip ;
-    width: 80%;
-margin: auto;
+    box-shadow:0px 0px 10px rgb(61, 59, 57) ;
+    width: 50%;
+    padding: 30px;
+      margin: auto;
+}
+.loginImg{
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+    padding: 10px;
 }

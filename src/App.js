@@ -8,9 +8,9 @@ import NotFound from './Shared/NotFound/NotFound';
 import Login from './Pages/Login/Login'
 import AuthProvider from './Contexts/AuthProvider';
 import Register from './Pages/Register/Register';
-import Submit from './Pages/SubmitForm/Submit';
 import PrivateRoute from './Private/PrivateRoute';
 import SingleService from './Pages/SingleService/SingleService';
+import BookingForm from './Pages/BookingForm/BookingForm';
 function App() {
   return (
 
@@ -33,9 +33,10 @@ function App() {
           <Route path="/login">
             <Login></Login>
           </Route>
-          <Route path="/submit">
-            <Submit></Submit>
-          </Route>
+
+          <PrivateRoute path="/booking">
+            <BookingForm />
+          </PrivateRoute>
           <Route path="/register">
             <Register></Register>
           </Route>

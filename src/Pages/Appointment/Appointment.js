@@ -16,12 +16,12 @@ const Appointment = () => {
                             <h4 className="card-title">Do You Want To take Appoinment or want to book ambulence</h4>
                             <p>Click Here To Take Dr's Appointment</p>
                             <div>
-                                <Link to="/register">
+                                <Link to="/booking">
                                     <button className="btn-click">Click</button>
                                 </Link>
                             </div>
                             <p>Click Here To Book Ambulence</p>
-                            <Link to="/register">
+                            <Link to="/booking">
                                 <button className="btn-click">Click</button>
                             </Link>
                         </div>

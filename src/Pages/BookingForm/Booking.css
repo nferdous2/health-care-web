@@ -1,0 +1,14 @@
+
+.form-book form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(246, 251, 255);
+    padding: 20px;
+    margin: auto;
+    box-sizing: border-box;
+}
+.form-outline{
+    width: 50%;
+}
