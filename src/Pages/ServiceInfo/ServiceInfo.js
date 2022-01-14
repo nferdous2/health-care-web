@@ -1,20 +1,21 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import './Service.css'
-const Service = ({ service }) => {
-    const { name, img } = service;
-    const url = '/singleservice';
+const ServiceInfo = ({ service }) => {
+    const { name, img, description } = service;
+    const url = '/home';
     return (
         <div className="service pb-3">
             < div className="container-div p-4">
                 <img src={img} className="w-25 container-image" alt="" />
                 <h5>{name}</h5>
+                <p>Description:{description}</p>
+
                 <Link to={url}>
-                    <button type="submit" className="btn btn-primary btn-block mb-2 mx-2">More </button>
+                    <button type="submit" className="btn btn-primary btn-block mb-2 mx-2">Back </button>
                 </Link>
             </div>
         </div>
     );
 };
 
-export default Service;
+export default ServiceInfo;
